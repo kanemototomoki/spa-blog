@@ -7,6 +7,7 @@
 
 ## 関わりのあるワード
 - マイクロサービス
+- リバースプロキシ
 
 ## 参考記事
 - https://www.atmarkit.co.jp/ait/articles/1803/12/news012.html
